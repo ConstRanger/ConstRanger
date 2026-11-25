@@ -1,8 +1,8 @@
 # Константин — автоматизация приёма заявок на n8n
 
-**Контакты:** Telegram [@ConStranger](https://t.me/ConStranger) ·
+**Контакты:** Telegram [@ConstRanger](https://t.me/ConstRanger) ·
 e-mail [constranger@ya.ru](mailto:constranger@ya.ru) ·
-GitHub [ConStranger](https://github.com/ConStranger)
+GitHub [ConstRanger](https://github.com/ConstRanger)
 
 ## УТП
 
@@ -44,6 +44,6 @@ GitHub [ConStranger](https://github.com/ConStranger)
 
 ## CTA
 
-Напишите в [Telegram](https://t.me/ConStranger) или на
+Напишите в [Telegram](https://t.me/ConstRanger) или на
 [constranger@ya.ru](mailto:constranger@ya.ru) — разберём ваш процесс
 и предложу, что автоматизировать в первую очередь.

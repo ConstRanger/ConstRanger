@@ -53,5 +53,5 @@ Python 3.12, `python-telegram-bot`, SQLite + FTS5, APScheduler,
 
 ## Репозиторий
 
-Приватный: 🔒 [ast-cj2](https://github.com/ConStranger/ast-cj2) — доступ по запросу.
-Первая версия: 🔒 [ast-cj](https://github.com/ConStranger/ast-cj).
+Приватный: 🔒 [ast-cj2](https://github.com/ConstRanger/ast-cj2) — доступ по запросу.
+Первая версия: 🔒 [ast-cj](https://github.com/ConstRanger/ast-cj).
