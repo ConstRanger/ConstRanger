@@ -15,4 +15,4 @@
 
 ## Описание проекта
 
-[README.md](README.md)
+[case.md](case.md)

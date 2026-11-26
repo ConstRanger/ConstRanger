@@ -68,7 +68,7 @@ Telegram-бот, который принимает произвольные фр
 клиенту и уведомление менеджеру, ловит ошибки отдельным Error Workflow.
 Компания, данные и цифры смоделированы.
 
-**Учебный кейс**: [Пример результата](results/zcau-cleaning/screens.md) & [README](results/zcau-cleaning/README.md)
+**Учебный кейс**: [Кейс](results/zcau-cleaning/case.md) & [Портфолио](results/zcau-cleaning/portfolio.md) & [Скриншоты](results/zcau-cleaning/screens.md)
 
 ## 👨🏻‍🎓 Сертификаты
 Ниже представлены некоторые из моих сертификатов по результатам обучения
