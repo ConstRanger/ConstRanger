@@ -4,7 +4,7 @@
 e-mail [constranger@ya.ru](mailto:constranger@ya.ru) ·
 GitHub [ConstRanger](https://github.com/ConstRanger)
 
-## УТП
+## Что я предлагаю
 
 Настраиваю автоматизацию приёма заявок и уведомлений на n8n: клиент получает
 ответ за минуты, заявки не теряются, оплата и статусы видны в одной таблице.
@@ -42,7 +42,7 @@ GitHub [ConstRanger](https://github.com/ConstRanger)
 - платёжные ссылки и уведомления клиенту и менеджеру;
 - контроль ошибок и ежедневные сводки.
 
-## CTA
+## Напишите мне
 
 Напишите в [Telegram](https://t.me/ConstRanger) или на
 [constranger@ya.ru](mailto:constranger@ya.ru) — разберём ваш процесс
